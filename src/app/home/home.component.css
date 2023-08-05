@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+body h1 {
+    background-color: pink;
+    margin-left: 23%;
+    margin-right: 25%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body h2{
+    text-decoration: underline;
+}
+body h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
